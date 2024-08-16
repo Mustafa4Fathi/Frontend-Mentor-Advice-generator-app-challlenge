@@ -23,8 +23,8 @@ body{
     width: 550px;
     background-color: var(--Dark-Grayish-Blue);
     border-radius: 13px;
-     /* box-shadow: 20px 15px 47px 39px rgba(10, 11, 12, 0.196); */
-    box-shadow: rgba(10, 11, 12, 0.413) 2px 13px 46px 0px, rgba(10, 11, 12, 0.208) 0px 0px 0px 0.3px;
+     box-shadow: 20px 15px 47px 39px rgba(10, 11, 12, 0.196);
+/*     box-shadow: rgba(10, 11, 12, 0.413) 2px 13px 46px 0px, rgba(10, 11, 12, 0.208) 0px 0px 0px 0.3px; */
     position: relative;
 }
 .advice-box{
